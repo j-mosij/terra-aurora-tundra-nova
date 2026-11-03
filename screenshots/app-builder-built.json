@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mosimodule",
+      "hasCanvas": true,
+      "bodyTextLen": 540,
+      "bodyTextHash": "d0649d9a032c0c5fa4ce92a4db0dfe4a7ef9577890be53f4cfa9d8323af21cb0",
+      "bodyTextPrefix": "Mosimodule Golden ternary flat fold 0 / 0 Sound off Sonify Drag ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mosimodule",
+      "hasCanvas": true,
+      "bodyTextLen": 540,
+      "bodyTextHash": "d0649d9a032c0c5fa4ce92a4db0dfe4a7ef9577890be53f4cfa9d8323af21cb0",
+      "bodyTextPrefix": "Mosimodule Golden ternary flat fold 0 / 0 Sound off Sonify Drag ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
